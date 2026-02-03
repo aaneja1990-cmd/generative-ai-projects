@@ -1,0 +1,13 @@
+# MultiAgentTravelSystem pinned dependencies (recommended starter set)
+# Pinning major libs helps reproducible installs; adjust versions as needed.
+
+ipython==8.15.0
+langchain==1.2.7
+langchain-openai==1.1.7
+langchain-community
+langchain-tavily==0.2.17
+langgraph==1.0.7
+openai>=1.0.0
+python-dotenv==1.2.1
+serpapi
+tavily-python==0.7.21

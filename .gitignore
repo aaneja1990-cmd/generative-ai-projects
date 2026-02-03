@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# dotenv files (API keys / secrets)
+.env
+**/.env
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
+
+# Misc
+travel_graph.png
+
+# Large binary files
+*.exe
+conversationalchatbot/libs/
+
+# __pycache__/
+/multiagenttravelsystem/__pycache__/
+/Simple Travel Agent/Agents/__pycache__/
