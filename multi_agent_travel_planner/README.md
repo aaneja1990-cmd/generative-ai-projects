@@ -71,6 +71,29 @@ multi_agent_travel_planner/
 
 ### Installation
 
+#### Option 1: Automated Setup (Recommended) ⚡
+
+Run the setup script for your operating system:
+
+**Windows:**
+```bash
+setup.bat
+```
+
+**macOS/Linux:**
+```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+The script will:
+- ✅ Create virtual environment
+- ✅ Install all dependencies
+- ✅ Validate your setup
+- ✅ Guide you through API key configuration
+
+#### Option 2: Manual Setup
+
 1. **Clone or navigate to the project directory**:
    ```bash
    cd multi_agent_travel_planner

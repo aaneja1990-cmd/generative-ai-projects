@@ -6,6 +6,25 @@ Quick commands and tips for working with the Multi-Agent Travel Planner.
 
 ## 🚀 Setup Commands
 
+### Option 1: Automated Setup (Easiest!) ⚡
+
+```bash
+# Windows
+setup.bat
+
+# macOS/Linux
+chmod +x setup.sh
+./setup.sh
+```
+
+The script automatically:
+- Creates virtual environment
+- Installs all dependencies
+- Validates setup
+- Guides you through API key setup
+
+### Option 2: Manual Setup
+
 ```bash
 # 1. Navigate to project
 cd multi_agent_travel_planner

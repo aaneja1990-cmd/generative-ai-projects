@@ -128,8 +128,9 @@ python-dotenv
 
 ### Intermediate
 3. **Explore Multi-Agent Travel Planner** (`multi_agent_travel_planner/`)
+   - **Quick Setup**: Run `setup.sh` (Linux/Mac) or `setup.bat` (Windows) for automated installation
    - Read `TUTORIAL.md` for concepts
-   - Follow `SETUP_GUIDE.md` for setup
+   - Follow `SETUP_GUIDE.md` for manual setup
    - Run the interactive chat
 
 4. **Understand the architecture**
